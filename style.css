@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background-color: #202020;
+	color: #fff;
+}
+
+.score, .lives {
+	margin-bottom: 20px;
+}
+
+canvas {
+	border: 2px solid #fff;
+	background-color: #000;
+}

@@ -8,6 +8,8 @@
 ## O que o jogo não tem
 
 - Controle de fases, fique a vontade para fazer um fork e complementar.
+- Controle de vidas do jogador
+- Estilização das naves
 
 ## Acessar Demo
 
